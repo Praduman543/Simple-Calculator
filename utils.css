@@ -1,0 +1,21 @@
+.text-center{
+    text-align: center;
+}
+a.switcher {
+    display: inline-block;
+    text-align: center;
+    padding: 20px 27px;
+    background: black;
+    color: white;
+    text-decoration: none;
+    white-space: nowrap;
+    border-radius: 32px;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    font-weight: bold;
+}
+a.switcher:hover {
+    background: white;
+    color: black;
+}
