@@ -20,7 +20,7 @@
 
 .calc{
     box-shadow: 6px 6px 13px #fff,
-    6px 6px 13px rgba(0,0,0,.16);
+    6px 6px 13px rgba(0,0,0,.6);
     border-radius: 28px;
     padding: 16px;
     display: grid;
